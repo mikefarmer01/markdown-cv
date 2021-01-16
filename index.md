@@ -17,7 +17,7 @@ IT Solution Expert @ Siemens AG.
 
 * SAP Basisadministration im Bereich des Application Lifecycle Management mit dem SAP Solution Manager: Nutzer- und Rollenpflege, Imstandhaltung mit (Sicherheits)updates, Applikationsmanagement, Servicemanagement.  
 * ab Oktober 2020: Entwicklungs- und Architektentätigkeit im Projekt: 
-Anwendungsentwicklung mit dem SAP Cloud Application Programming Model in der PaaS-Umgebung SAP Cloud Platform im Zusammenarbeit mit der SAP SE.
+Anwendungsentwicklung mit dem SAP Cloud Application Programming Model in der PaaS-Umgebung SAP Cloud Platform im Zusammenarbeit mit der SAP SE.  
 Technologien: Java / Spring Boot, JavaScript / SAPUI5, SAP CDS, OData, Cloud Foundry / SAP Cloud Platform
 
 
