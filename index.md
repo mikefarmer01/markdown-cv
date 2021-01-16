@@ -27,12 +27,12 @@ Technologien: Java / Spring Boot, JavaScript / SAPUI5, SAP CDS, OData, Cloud Fou
 
 * Module: 
 * Praxisphasen bei Siemens, zu Inhalten s. [Ausbildung](#ausbildung) und Bachelor-Thesis-Projekt.
-* Bachelor-Thesis-Projekt zum Thema *Evaluation des Einsatzes von maschinellem Lernen zur cloudbasierten Optimierung von SAP-HANA-Datenbanken*:  
+* Bachelor-Thesis-Projekt zum Thema _Evaluation des Einsatzes von maschinellem Lernen zur cloudbasierten Optimierung von SAP-HANA-Datenbanken_:  
 	- Literaturanalyse (Studienarbeit, 40 S.)
 	- Projektplanung (Projektstudienarbeit, 20 S.)
 	- Implementierung (Bachelor Thesis, 60 S.):  
 Migration einer Maschinelles-Lernen-Software zur Datenbankoptimierung in die SAP Cloud Platform (Architekturanalyse, Modularisierung, Anpassungen an Cloudumgebung, funktionale Erweiterung, Optimierungen)
-* *Abschluss mit einer Gesamtnote von voraussichtlich ca. 2,2.*
+* _Abschluss mit einer Gesamtnote von voraussichtlich ca. 2,2._
 
 
 ## Ausbildung
@@ -40,16 +40,15 @@ Migration einer Maschinelles-Lernen-Software zur Datenbankoptimierung in die SAP
 `September 2017 - Juli 2020` __Ausbildung zum Fachinformatiker für Anwendungsentwicklung, Siemens AG & IHK Nordbayern, Nürnberg u. Erlangen.__  
 
 * theoretische Ausbildung:  
-Projektarbeiten mit verschiedenen Programmiersprachen (Java, C#, JavaScript), Aufbau und Betrieb von Netzwerken, ITIL, Englischkurs uvm.
+Projektarbeiten mit verschiedenen Programmiersprachen (Java, C#, JavaScript), Aufbau und Betrieb von Netzwerken, ITIL, Englischkurs uvm.  
 * praktische Ausbildung:  
-SAP Basisadministration im Bereich des Application Lifecycle Management mit dem SAP Solution Manager: u.a. Einrichtung von SAML2-basierter Authentifizierung eines SAP-Solution-Manager-Systems in Eigenverantwortung.
+SAP Basisadministration im Bereich des Application Lifecycle Management mit dem SAP Solution Manager: u.a. Einrichtung von SAML2-basierter Authentifizierung eines SAP-Solution-Manager-Systems in Eigenverantwortung.  
 * Sommer 2020:  
 IHK-Projekt zum Thema Entwicklung einer Software zur Auswertung und Darstellung von Größeninformationen von SAP-HANA-Datenbanken: 
-Full-Stack-Entwicklung mit u.a. Datenmodelldesign für SAP HANA und OData, Realisierung von Middlewarelogik mit ABAP, Entwicklung eines Frontends mit JavaScript/SAPUI5.
+Full-Stack-Entwicklung mit u.a. Datenmodelldesign für SAP HANA und OData, Realisierung von Middlewarelogik mit ABAP, Entwicklung eines Frontends mit JavaScript/SAPUI5.  
 * April - Mai 2019:  
 siebenwöchige Auslandspraxisphase in Lissabon, Portugal: Webanwendungsentwicklung mit JavaScript/SAPUI5 und Datenmodelldesign mit OData und ABAP.
-
-* *IHK-Abschluss mit Gesamtnote befriedigend.*
+* _IHK-Abschluss mit Gesamtnote befriedigend._
 
 
 
