@@ -1,2 +1,5 @@
-markdown:   kramdown
+markdown:   CommonMarkGhPages
 style:  davewhipp
+
+commonmark:
+  extensions: ['table']

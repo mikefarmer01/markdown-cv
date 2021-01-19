@@ -92,12 +92,11 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "\2022 ";
 	position: relative;
-	left: -0.25em;
-}*/
+	left: -0.15em;
+}
 
 li {
 	/*second line indent*/

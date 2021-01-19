@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	width: 100%;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -32,7 +33,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: disc;
 }
 blockquote, q {
 	quotes: none;
@@ -42,9 +43,8 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
+table, th, td {
+	border: 1px solid black;
 }
 
 /* end of reset */
@@ -55,18 +55,18 @@ body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	width: 58%;
 }
 
 p {
 	position: relative;
-	left: 25%;
+	left: 40%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 85%;
 }
 
 code {
@@ -80,23 +80,17 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -45%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 40%;
+	width: 85%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
-}
-
-/*uncomment to get dashes in the list*/
-li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
+	margin-left: 1.5em;
 }
 
 li {
@@ -124,13 +118,15 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 40%;
+	margin-bottom: 0.35em;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	width: 100%;
 }
 
 h2 {
@@ -164,7 +160,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 40%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
@@ -175,7 +171,6 @@ a:hover {
 }
 
 em {
-	/* font-weight: bold; */
 	font-style: italic;
 }
 
