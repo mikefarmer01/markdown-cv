@@ -89,9 +89,9 @@ Abschluss mit dem Übertritt ins Gymnasium (Note: 1,3).
 `2006 - 2017` Klavierunterricht  
 
 
-Mehrere Jahre Nachhilfelehrer für Mathematik u. Französisch
-weitere Sportarten: Schach, Fußball, Fahrrad
-Engagement in freier christlicher Gemeinde
+Mehrere Jahre Nachhilfelehrer für Mathematik u. Französisch,  
+weitere Sportarten: Schach, Fußball, Fahrrad,  
+Engagement in freier christlicher Gemeinde.  
 
 --------------------------------------------------------------------------------
 
