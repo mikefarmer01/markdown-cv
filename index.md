@@ -1,10 +1,14 @@
 ---
 layout: cv
-title: Michael Bauer's Lebenslauf
+title: Lebenslauf
+subtitle: Michael Bauer
 ---
 
-__`19.01.2021`__ 
+__`19.01.2021`__   
+
 # Michael Bauer
+
+### &#2384; [de](./index) / [en](./curriculum)
 
 IT Solution Expert @ Siemens AG, Metropolregion Nürnberg, Deutschland.
 
@@ -91,7 +95,7 @@ Abschluss mit der Allgemeinen Hochschulreife (Note: 2,1).
 `2006 - 2017` Klavierunterricht  
 
 
-Mehrere Jahre Nachhilfelehrer für Mathematik u. Französisch.    
+Mehrere Jahre Nachhilfelehrer für u.a. Mathematik u. Französisch.    
 Weitere Sportarten: Schach, Fußball, Fahrrad.  
 Engagement in freier christlicher Gemeinde.  
 

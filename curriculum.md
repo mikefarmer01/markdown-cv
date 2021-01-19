@@ -1,10 +1,14 @@
 ---
 layout: cv
-title: Michael Bauer's Curriculum
+title: Curriculum
+subtitle: Michael Bauer
 ---
 
 __`2021-01-19`__
+
 # Michael Bauer
+
+### &#2384; [de](./index) / [en](./curriculum)
 
 IT Solution Expert @ Siemens AG, Greater region Nuremberg, Deutschland.
 
