@@ -89,13 +89,8 @@ Graduation with Allgemeine Hochschulreife (overall grade: 2.1).
 * Main workstation: OS of my choice for everything, development, home recording studio.
 * Arm64 SBC: Operation of Nextcloud instance, additional projects planned.
 
-`2017 - 2019` Club sports: table tennis
-
-`2006 - 2017` Piano education  
-
-
 Multiple years of experience as a tutor, mainly in Maths and French.  
-Further sports: Chess, football, cycling.  
+In my free time: Chess, table tennis, piano, football, cycling.  
 Voluntary work in free church.
 
 --------------------------------------------------------------------------------

@@ -83,6 +83,14 @@ Abschluss mit der Allgemeinen Hochschulreife (Note: 2,1).
 
 --------------------------------------------------------------------------------
 
+## Sprachen
+
+Deutsch (Muttersprache)  
+Englisch (fließend)  
+Französisch (gut)  
+
+--------------------------------------------------------------------------------
+
 ## Sonstiges
 
 `2016 - jetzt` Verschiedenartige Nutzung von (Arch) Linux im Heimbereich:  
@@ -90,13 +98,10 @@ Abschluss mit der Allgemeinen Hochschulreife (Note: 2,1).
 * auf Hauptrechner: Betriebssystem der Wahl für Alltägliches, Entwicklung, Home-Tonstudio.
 * auf arm64-SBC: Betrieb einer Nextcloud-Instanz; weitere Projekte geplant.
 
-`2017 - 2019` Vereinssport Tischtennis
+Hobbies: Schach, Tischtennis, Klavier, Fußball, Fahrrad  
 
-`2006 - 2017` Klavierunterricht  
+Mehrere Jahre Nachhilfelehrer für u.a. Mathematik u. Französisch.  
 
-
-Mehrere Jahre Nachhilfelehrer für u.a. Mathematik u. Französisch.    
-Weitere Sportarten: Schach, Fußball, Fahrrad.  
 Engagement in freier christlicher Gemeinde.  
 
 --------------------------------------------------------------------------------
