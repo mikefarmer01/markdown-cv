@@ -85,9 +85,9 @@ Abschluss mit der Allgemeinen Hochschulreife (Note: 2,1).
 
 ## Sprachen
 
-Deutsch (Muttersprache)  
-Englisch (fließend)  
-Französisch (gut)  
+* Deutsch (Muttersprache)  
+* Englisch (fließend)  
+* Französisch (gut)  
 
 --------------------------------------------------------------------------------
 

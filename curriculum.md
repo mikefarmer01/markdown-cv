@@ -82,6 +82,14 @@ Graduation with Allgemeine Hochschulreife (overall grade: 2.1).
 
 --------------------------------------------------------------------------------
 
+## Languages
+
+* German (mother tongue)  
+* English (fluent)  
+* French (proficient)
+
+--------------------------------------------------------------------------------
+
 ## Trivia
 
 `2016 - now` Various usage of (Arch) Linux in home environment:  
